@@ -1,0 +1,16 @@
+.product-container{
+    margin:50px 0;
+}
+.sec-heading{
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.products{
+    display:flex;
+    flex-flow: wrap;
+    gap: 10px;
+    margin: 1.8rem 4rem;
+    justify-content: space-around;
+}
